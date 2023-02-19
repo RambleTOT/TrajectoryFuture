@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VKServices</string>
+    <string name="text_splash">Добро пожаловать в ВК Сервисы</string>
+    <string name="text_title">Сервисы Вконтакте</string>
+</resources>
